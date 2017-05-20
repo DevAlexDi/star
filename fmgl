@@ -1,0 +1,35 @@
+[33mcommit 96737ca7505a62141089344c167c58d1502c6d2f[m[33m ([m[1;36mHEAD -> [m[1;32mss[m[33m, [m[1;31morigin/mybranch[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmybranch[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Alexey Dikarev <keitmark@mail.ru>
+Date:   Sat May 20 13:17:19 2017 +0300
+
+    six
+
+[33mcommit 838129800c6e3e828befb20559eb50bbdf39a3b4[m
+Author: Alexey Dikarev <keitmark@mail.ru>
+Date:   Sat May 20 13:13:06 2017 +0300
+
+    five
+
+[33mcommit fb4057ee1b1427b14867a4171ede2138deba0283[m
+Author: Alexey Dikarev <keitmark@mail.ru>
+Date:   Sat May 20 13:12:29 2017 +0300
+
+    fourth commit
+
+[33mcommit c469acd94931c6c6f64dc1a752e11357f728cfe3[m[33m ([m[1;32mleftbranch[m[33m)[m
+Author: Alexey Dikarev <keitmark@mail.ru>
+Date:   Sat May 20 12:10:17 2017 +0300
+
+    third commit
+
+[33mcommit 30403b274ba5ac8241527936f9046c05f4a41d81[m
+Author: Alexey Dikarev <keitmark@mail.ru>
+Date:   Sat May 20 12:02:36 2017 +0300
+
+    second commit
+
+[33mcommit 770a47aa5340690f79184832a8cacb645769924b[m
+Author: Alexey Dikarev <keitmark@mail.ru>
+Date:   Sat May 20 11:54:37 2017 +0300
+
+    first commit
